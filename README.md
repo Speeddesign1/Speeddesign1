@@ -1,8 +1,6 @@
 ### Hi there 👋
-
-<!--
+i'm Daniel Onyewuchi, a Brand designer,Graphic designer,Ads designer and a Strategist. 
 **Speeddesign1/Speeddesign1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Brand Design 
